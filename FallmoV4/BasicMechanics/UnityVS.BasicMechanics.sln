@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.BasicMechanics.CSharp.Editor", "UnityVS.BasicMechanics.CSharp.Editor.csproj", "{F536F7BD-5790-62A0-85D7-E10893071044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.BasicMechanics.CSharp", "UnityVS.BasicMechanics.CSharp.csproj", "{6A86546E-33D9-A55B-237F-28766A77F265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F536F7BD-5790-62A0-85D7-E10893071044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F536F7BD-5790-62A0-85D7-E10893071044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F536F7BD-5790-62A0-85D7-E10893071044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F536F7BD-5790-62A0-85D7-E10893071044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A86546E-33D9-A55B-237F-28766A77F265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A86546E-33D9-A55B-237F-28766A77F265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A86546E-33D9-A55B-237F-28766A77F265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A86546E-33D9-A55B-237F-28766A77F265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

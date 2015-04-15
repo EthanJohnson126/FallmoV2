@@ -1,0 +1,48 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-4-5720
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 8 at (80): 'vert': output parameter 'o' not completely initialized
+  error: 1 plat 8 at (108): implicit truncation of vector type
+  error: 1 plat 8 at (109): implicit truncation of vector type
+  api=8 type=0 insize=6582 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (80): 'vert': output parameter 'o' not completely initialized
+  error: 1 plat 8 at (108): implicit truncation of vector type
+  error: 1 plat 8 at (109): implicit truncation of vector type
+  api=8 type=0 insize=6582 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  api=0 type=0 insize=6582 outsize=612 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=6582 outsize=631 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=6582 outsize=618 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4402 outsize=1385 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4402 outsize=815 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4402 outsize=677 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4402 outsize=859 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4402 outsize=608 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4224 outsize=487 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 8 at (80): 'vert': output parameter 'o' not completely initialized
+  error: 1 plat 8 at (108): implicit truncation of vector type
+  error: 1 plat 8 at (109): implicit truncation of vector type
+  api=8 type=0 insize=5975 outsize=0 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=0
+Cmd: compileSnippet
+  api=0 type=0 insize=5975 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=5975 outsize=1772 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5975 outsize=637 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=691 outsize=133 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
